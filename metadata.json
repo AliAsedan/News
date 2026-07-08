@@ -1,0 +1,6 @@
+{
+  "name": "آخر الأخبار",
+  "description": "تطبيق آخر الأخبار العاجلة السياسية والاقتصادية والاجتماعية بواجهة عربية أنيقة وسهلة الاستخدام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
